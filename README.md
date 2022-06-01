@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/MuhammedSGonul/MuhammedSGonul/main/banner.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MuhammedSGonul/MuhammedSGonul/main/banner.gif"></p>
 
 # Hi, I'm Muhammed 👋
 
