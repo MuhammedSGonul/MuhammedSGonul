@@ -2,4 +2,4 @@
 
 # Hi, I'm Muhammed 👋
 
-### I'm a computer engineering student. I like to develop electronics and software together because I was interested in robotics studies in high school. That's why I develop software for different platforms 🚀🚀.
+I am currently a computer engineering student, and I spend the majority of my time developing games and dedicating a portion to artificial intelligence-machine learning. However, as some of my content may suggest, I have previously been involved in electronic and robotics projects, and I continue to pursue these interests as hobbies 🚀🚀
